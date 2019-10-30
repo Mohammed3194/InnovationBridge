@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:innovation_bridge/SplashScreen.dart';
+import 'package:innovation_bridge/main.dart';
 
 void main() {
   /*testWidgets('Counter increments smoke test', (WidgetTester tester) async {
